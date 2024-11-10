@@ -2,7 +2,7 @@
 
 - 📫 Email: zaitsev@maths.tcd.ie
 - Website: [Trinity College Dublin Profile](http://www.maths.tcd.ie/~zaitsev/)
-- Stackovverflow: [Dmitri Zaitsev](https://stackoverflow.com/users/1614973/dmitri-zaitsev)
+- StackOverflow: [Dmitri Zaitsev](https://stackoverflow.com/users/1614973/dmitri-zaitsev)
 
 ## About Me
 
@@ -14,10 +14,10 @@ I joined the School of Mathematics at Trinity College Dublin in 2003. I've autho
 
 ## Software
 
-I have authored the libaries:
+I have authored the libraries:
 
-    - [cpsfy](https://github.com/dmitriz/cpsfy) functionally composable data flow management tools based on Continuation-Passing-Style functions,backed by category theory foundations;
-    - [un](https://github.com/dmitriz/un) unframework for universal uncomponents -- pure, framework-agnostic functions that encapsulate UI components, promoting modularity, testability, and reusability.
+- *[cpsfy](https://github.com/dmitriz/cpsfy)* -- **functionally composable data flow management tools** based on Continuation-Passing-Style functions, backed by category theory foundations;
+- *[un](https://github.com/dmitriz/un)* -- **unframework for universal uncomponents** -- pure, framework-agnostic functions that encapsulate UI components, promoting modularity, testability, and reusability.
 
 ## Passions
 
@@ -34,10 +34,6 @@ I have authored the libaries:
 > Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding.
 >
 > — William Paul Thurston
-
-## Let's Connect 
-
-I'm always open to collaborations on Open Knowledge projects and discussions about Fair Open Access and scholarly publishing reform. Feel free to reach out if you share my passion for advancing open scholarship.
 
 
 <!--
