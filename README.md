@@ -1,7 +1,8 @@
 # Dmitri Zaitsev - Professor of Mathematics at Trinity College Dublin
-📫 Email: zaitsev@maths.tcd.ie
-Website: [Trinity College Dublin Profile](http://www.maths.tcd.ie/~zaitsev/)
-Stackovverflow: [Dmitri Zaitsev](https://stackoverflow.com/users/1614973/dmitri-zaitsev)
+
+- 📫 Email: zaitsev@maths.tcd.ie
+- Website: [Trinity College Dublin Profile](http://www.maths.tcd.ie/~zaitsev/)
+- Stackovverflow: [Dmitri Zaitsev](https://stackoverflow.com/users/1614973/dmitri-zaitsev)
 
 ## About Me
 
@@ -14,6 +15,7 @@ I joined the School of Mathematics at Trinity College Dublin in 2003. I've autho
 ## Software
 
 I have authored the libaries:
+
     - [cpsfy](https://github.com/dmitriz/cpsfy) functionally composable data flow management tools based on Continuation-Passing-Style functions,backed by category theory foundations;
     - [un](https://github.com/dmitriz/un) unframework for universal uncomponents -- pure, framework-agnostic functions that encapsulate UI components, promoting modularity, testability, and reusability.
 
